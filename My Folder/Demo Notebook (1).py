@@ -47,7 +47,3 @@ print(files)
 # COMMAND ----------
 
 display(files)
-
-# COMMAND ----------
-
-
